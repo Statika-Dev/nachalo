@@ -1,0 +1,21 @@
+﻿src;dst;relationship
+Rostov na donu;Saransk;ROAD{length:13}
+Saransk;Irkutsk;ROAD{length:3}
+Saransk;Ulyanovsk;ROAD{length:10}
+Ulyanovsk;Tyumen;ROAD{length:8}
+Tyumen;Moscow;ROAD{length:4}
+Moscow;Konosha;ROAD{length:15}
+Moscow;Minsk;ROAD{length:11}
+Moscow;Ulan ude;ROAD{length:20}
+Archangelsk;Saransk;ROAD{length:12}
+Novosibirsk;Riga;ROAD{length:15}
+Novgorod;Stavropol;ROAD{length:17}
+Sevastopol;Sankt Peterburk;ROAD{length:5}
+Sevastopol;Irkutsk;ROAD{length:9}
+Sevastopol;Chelyabinsk;ROAD{length:2}
+Anapa;Novgorod;ROAD{length:4}
+Novgorod;Krasnojarsk;ROAD{length:8}
+Samara;Anapa;ROAD{length:11}
+Sankt Peterburk;Tyumen;ROAD{length:13}
+Sankt Peterburk;Ulan ude;ROAD{length:7}
+Ekaterinburg;Omsk;ROAD{length:20}
