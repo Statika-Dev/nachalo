@@ -1,9 +1,9 @@
-﻿id;name
-1;Tyumen
-2;Rostov na donu
-3;Irkutsk
-4;Moscow
-5;Konosha
+﻿id,name
+1,Tyumen
+2,Rostov na donu
+3,Irkutsk
+4,Moscow
+5,Konosha
 6;Minsk
 7;Ulan ude
 8;Archangelsk
